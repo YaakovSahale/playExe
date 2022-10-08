@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  padding: 20px;
+  background-color: red;
+
+  width: 80%;
+  margin: 0 auto;
+
+  padding: 2em;
+  height: 300px;
+}
+
+.intro_content {
+  width: 10px;
+}
